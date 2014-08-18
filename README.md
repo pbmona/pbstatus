@@ -1,7 +1,7 @@
 pbstatus - Status website test
 ========
 
-You are looking at the *gh-pages* branch - this is used for GitHub pages (using Jenkins). 
+You are looking at the *gh-pages* branch - this is used for GitHub pages (using Jekyll). 
 
 
 If you need to switch back to the master branch:
